@@ -1,0 +1,52 @@
+{
+    "misiones": [
+        {
+            "nombre": "Recuperación Habitantes del Cielo",
+            "isla": "???????????",
+            "descripcion": "Reunir la pieza para activar el localizador de la base de los 7 demonios del mar",
+            "dificultad": 10,
+            "recompensa": 0,
+            "jugadores": []
+        },
+        {
+            "nombre": "Desierto Helado",
+            "isla": "Isla Helada",
+            "descripcion": "Conseguir la pieza del demonio de la Ira",
+            "dificultad": 8,
+            "jugadores": []
+        },
+        {
+            "nombre": "Torre de los Repudiados",
+            "isla": "Isla Nocturna",
+            "descripcion": "Conseguir la pieza del demonio de la Avaricia",
+            "dificultad": 10,
+            "jugadores": []
+        },
+        {
+            "nombre": "Palacio de las Mil Manos",
+            "isla": "Isla Acantilado",
+            "descripcion": "Conseguir la pieza del demonio de la Soberbia/Orgullo",
+            "dificultad": 8,
+            "jugadores": []
+        },
+        {
+            "nombre": "El Tren Marino",
+            "isla": "Archipiélago Ferroviario",
+            "descripcion": "Conseguir la pieza del demonio de la Lujuria",
+            "dificultad": 6,
+            "jugadores": [
+                "847844009580953640",
+                "993505982825119775"
+            ]
+        },
+        {
+            "nombre": "El Paraíso Flotante",
+            "isla": "El Barco de los Vicios",
+            "descripcion": "Conseguir las piezas de los demonios de la gula y de la envidia",
+            "dificultad": 8,
+            "jugadores": [
+                "993505982825119775"
+            ]
+        }
+    ]
+}
