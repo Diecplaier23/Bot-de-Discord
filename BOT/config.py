@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = 'MTQ1MzQwNjQ4NTkxMTQ0MTUwNA.GdS-mw.AnstaA0Dmeg3PYtQzfXydwh0dgIDW6QpeLjuOY'
+TOKEN = ''
 
 GUILD_ID = 1105177286375899207
 GUILD = discord.Object(id=GUILD_ID)
